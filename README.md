@@ -18,8 +18,7 @@ Full-stack developer from Katowice, Poland, building tools that make developers'
 
 ```
 Languages:    Java | Python | JavaScript | HTML/CSS
-Frameworks:   Django | Spring
-Tools:        Git | REST APIs | Linux
+Tools:        Mainly Claude Code, Codex
 ```
 
 ## Connect

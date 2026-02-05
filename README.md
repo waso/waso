@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Waldemar
 
-<!--
-**waso/waso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Katowice, Poland, building tools that make developers' lives easier.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Founder of [VibeFactory.ai](https://vibefactory.ai)
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [VibeFactory.ai](https://vibefactory.ai) | AI platform for generating Excel Dashboards  |
+| [HammerUI](https://github.com/waso/HammerUI) | Cross-platform REST API client for Linux, macOS, and Windows |
+| [cute-json](https://github.com/waso/cute-json) | Fast JSON formatter for Java |
+
+
+## Tech Stack
+
+```
+Languages:    Java | Python | JavaScript | HTML/CSS
+Frameworks:   Django | Spring
+Tools:        Git | REST APIs | Linux
+```
+
+## Connect
+
+- Website: [vibefactory.ai](https://vibefactory.ai)
+- X/Twitter: [@WaldemarSojka](https://x.com/WaldemarSojka)
+
+---
+

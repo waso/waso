@@ -17,14 +17,14 @@ Full-stack developer from Katowice, Poland, building tools that make developers'
 ### Tech Stack
 
 ```
-Languages:    Java | Python | JavaScript | HTML/CSS
+Languages:    Java, TypeScript
 Tools:        Mainly Claude Code, Codex
 ```
 
 ### Connect
 
 - Website: [vibefactory.ai](https://vibefactory.ai)
-- X/Twitter: [@WaldemarSojka](https://x.com/WaldemarSojka)
+- X: [@WaldemarSojka](https://x.com/WaldemarSojka)
 
 ---
 

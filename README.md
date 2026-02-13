@@ -1,6 +1,6 @@
 ## Hi, I'm Waldemar
 
-Full-stack developer from Katowice, Poland, building tools that make developers' lives easier.
+Full-stack developer from Poland, building tools for fun and profit.
 
 ### About Me
 

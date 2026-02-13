@@ -9,6 +9,7 @@ Full-stack developer from Katowice, Poland, building tools that make developers'
 ### Featured Projects
 
 
+* [CaptureThis.dev](https://capturethis.dev) - Professional screen recording & video editing for macOS
 * [VibeFactory.ai](https://vibefactory.ai) - AI platform for generating Excel Dashboards 
 * [HammerUI](https://github.com/waso/HammerUI) - Cross-platform REST API client for Linux, macOS, and Windows
 * [cute-json](https://github.com/waso/cute-json) - Fast JSON formatter for Java

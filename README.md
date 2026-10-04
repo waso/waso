@@ -18,7 +18,7 @@ Full-stack developer from Poland, building tools for fun and profit.
 ### Tech Stack
 
 ```
-Languages:    Java, TypeScript
+Languages:    Java, Python, TypeScript
 Tools:        Mainly Claude Code, Codex
 ```
 
